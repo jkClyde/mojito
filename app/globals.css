@@ -376,3 +376,16 @@ body {
         }
     }
 }
+
+#menu {
+  overflow: hidden;
+}
+
+/* Or more specifically: */
+.cocktail {
+  overflow: hidden;
+}
+
+.details {
+  overflow: hidden;
+}
